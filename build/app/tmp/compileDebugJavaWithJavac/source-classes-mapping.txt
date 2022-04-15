@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/drone_planning/BuildConfig.java
+ com.example.drone_planning.BuildConfig
+com/example/drone_planning/MainActivity.java
+ com.example.drone_planning.MainActivity
