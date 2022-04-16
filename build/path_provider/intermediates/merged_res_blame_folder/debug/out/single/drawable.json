@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/parfi7zhy/Bureau/dev_ mobile/drone-planning/build/path_provider/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/parfi7zhy/.gradle/caches/transforms-2/files-2.1/d67cd79abd1ca209502f51c69d23182b/core-1.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/parfi7zhy/Bureau/dev_ mobile/drone-planning/build/path_provider/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/parfi7zhy/.gradle/caches/transforms-2/files-2.1/d67cd79abd1ca209502f51c69d23182b/core-1.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/parfi7zhy/Bureau/dev_ mobile/drone-planning/build/path_provider/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/home/parfi7zhy/.gradle/caches/transforms-2/files-2.1/d67cd79abd1ca209502f51c69d23182b/core-1.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/parfi7zhy/Bureau/dev_ mobile/drone-planning/build/path_provider/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/parfi7zhy/.gradle/caches/transforms-2/files-2.1/d67cd79abd1ca209502f51c69d23182b/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    }
+]

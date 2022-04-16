@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/parfi7zhy/Bureau/dev_ mobile/drone-planning/build/path_provider/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/parfi7zhy/.gradle/caches/transforms-2/files-2.1/d67cd79abd1ca209502f51c69d23182b/core-1.1.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/parfi7zhy/Bureau/dev_ mobile/drone-planning/build/path_provider/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/parfi7zhy/.gradle/caches/transforms-2/files-2.1/d67cd79abd1ca209502f51c69d23182b/core-1.1.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/parfi7zhy/Bureau/dev_ mobile/drone-planning/build/path_provider/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/parfi7zhy/.gradle/caches/transforms-2/files-2.1/d67cd79abd1ca209502f51c69d23182b/core-1.1.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/parfi7zhy/Bureau/dev_ mobile/drone-planning/build/path_provider/intermediates/res/merged/debug/layout/custom_dialog.xml",
+        "source": "/home/parfi7zhy/.gradle/caches/transforms-2/files-2.1/d67cd79abd1ca209502f51c69d23182b/core-1.1.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/home/parfi7zhy/Bureau/dev_ mobile/drone-planning/build/path_provider/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/parfi7zhy/.gradle/caches/transforms-2/files-2.1/d67cd79abd1ca209502f51c69d23182b/core-1.1.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/parfi7zhy/Bureau/dev_ mobile/drone-planning/build/path_provider/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/parfi7zhy/.gradle/caches/transforms-2/files-2.1/d67cd79abd1ca209502f51c69d23182b/core-1.1.0/res/layout/notification_action_tombstone.xml"
+    }
+]
