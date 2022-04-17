@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:drone_planning/home.dart';
+import 'package:drone_planning/splash.dart';
 
 void main() {
   runApp(MyApp());
